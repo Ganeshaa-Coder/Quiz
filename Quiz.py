@@ -28,6 +28,21 @@ questions = [
         "question": "Who wrote 'Hamlet'?",
         "options": ["A. Charles Dickens", "B. J.K. Rowling", "C. William Shakespeare", "D. Mark Twain"],
         "answer": "C"
+    },
+    {
+        "question": "Which river is also known as the 'Dakshin Ganga' (Ganga of the South)?",
+        "options": ["A. Krishna", "B. Cauvery", "C. Godavari", "D. Mahanadi"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the highest peak in India?",
+        "options": ["A. K2 (Godwin-Austen)", "B. Kangchenjunga", "C. Nanda Devi", "D. Mount Everest"],
+        "answer": "B"
+    },
+    {
+        "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+        "options": ["A. Haryana", "B. Punjab", "C. Gujarat", "D. Rajasthan"],
+        "answer": "B"
     }
 ]
 
