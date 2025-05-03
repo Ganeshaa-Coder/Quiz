@@ -15,13 +15,13 @@ def run_quiz(questions):
 
 questions = [
     {
-        "question": "What is the capital of France?",
-        "options": ["A. Paris", "B. London", "C. Rome", "D. Berlin"],
-        "answer": "A"
+        "question": "In which village sant tukaram was born?",
+        "options": ["A. Solapur", "B. Dharashiv", "C. Mumbai", "D. Dehu"],
+        "answer": "D"
     },
     {
-        "question": "Which planet is known as the Red Planet?",
-        "options": ["A. Earth", "B. Mars", "C. Jupiter", "D. Venus"],
+        "question": "What is capital of india?",
+        "options": ["A. Mumbai", "B. Delhi", "C. Nagpur", "D. Pune"],
         "answer": "B"
     },
     {
